@@ -10,6 +10,8 @@
 
 @interface AppDelegate ()
 
+@property (nonatomic, copy) NSString *update;
+
 @end
 
 @implementation AppDelegate
