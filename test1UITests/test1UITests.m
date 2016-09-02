@@ -11,7 +11,9 @@
 @interface test1UITests : XCTestCase
 
 @end
-
+/*
+ 添加方法说明
+ */
 @implementation test1UITests
 
 - (void)setUp {
